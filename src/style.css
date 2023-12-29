@@ -1,3 +1,9 @@
 h1 {
   color: blueviolet;
 }
+
+.links {
+  margin: 0px;
+  color: green;
+  text-align: center;
+}
