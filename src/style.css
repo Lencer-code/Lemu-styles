@@ -1,9 +1,30 @@
-h1 {
-  color: blueviolet;
+body {
+  background: #f8e8a6;
 }
 
-.links {
-  margin: 0px;
-  color: green;
+h1 {
+  color: blueviolet;
   text-align: center;
+}
+h2 {
+  text-align: center;
+}
+
+.contact-links {
+  text-align: center;
+}
+.contact-links a {
+  color: green;
+  margin: 0 10px;
+  margin-inline-start: 10px;
+}
+p {
+  text-align: center;
+}
+
+.pant-suit {
+  max-width: 100%;
+  border-radius: 40px;
+  display: block;
+  margin: 30px auto;
 }
